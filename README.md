@@ -13,6 +13,7 @@ To run the program, simply open the root folder in your terminal of choice, and 
 
 ## Using the Program
 ![game menu](menu.png)
+
 The program can solve the puzzle in two modes:
 
 1. File Input Mode
